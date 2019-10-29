@@ -12,3 +12,5 @@ The Society for Imaging Informatics in Medicine (SIIM) is the leading healthcare
 In this competition, you’ll develop a model to classify (and if present, segment) pneumothorax from a set of chest radiographic images. If successful, you could aid in the early recognition of pneumothoraces and save lives.
 
 If you’re up for the challenge, take a deep breath, and get started now.
+
+Score: Top 4%  Silver Medal
